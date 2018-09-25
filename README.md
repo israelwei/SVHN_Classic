@@ -3,7 +3,7 @@
 The challenge: implement a good classifier for the SVHN dataset without a neural network.
 
 
-The solution: detect the digits in images using MSER features and Strokw Width variation,
+The solution: detect the digits in images using MSER features and Stroke Width variation,
 		  classify the digits in each bounding box using the K-Nearest Neighbors method.
 		  I achieved an average F1-score of 80% on images of the validation set. 
 
