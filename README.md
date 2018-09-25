@@ -1,6 +1,6 @@
 # SVHN_Classic
 
-The challenge: implement a good classifier for the SVHN dataset without a neural network.
+The challenge: implement a good classifier for the SVHN dataset without a neural network, using mainly classic image processing / computer vision techniques.
 
 
 The solution: detect the digits in images using MSER features and Stroke Width variation,
