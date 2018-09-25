@@ -5,10 +5,7 @@ The solution: detect the digits in images using MSER features and Strokw Width v
 		  classify the digits in each bounding box using the K-Nearest Neighbors method.
 
 ![20109](https://user-images.githubusercontent.com/23454156/46013156-156f1000-c0d4-11e8-8220-71a7240a3ab1.png)
-
-
 ![23475](https://user-images.githubusercontent.com/23454156/46013180-2881e000-c0d4-11e8-8b92-ce9d02cf194f.png)
-
 ![26148](https://user-images.githubusercontent.com/23454156/46013197-36376580-c0d4-11e8-8d36-007496ed26df.png)
 
 
