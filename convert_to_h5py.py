@@ -1,3 +1,9 @@
+"""
+This file is used for converting the data in the digitStruct.mat for the training set,
+				    which is the data from the "train" tar. Extracting the bounding boxes and labels 
+                    for all images in the training set.
+"""
+
 import os
 import h5py
 import numpy as np
